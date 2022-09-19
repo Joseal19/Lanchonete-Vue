@@ -13,7 +13,7 @@
 
 <style scoped>
   #footer{
-    height: 130px;
+    height: 100px;
     background-color: #222;
     border-top: 4px solid #111;
     color: #Fcba03;
@@ -21,6 +21,7 @@
     align-items: center;
     justify-content: center;
     width: 100%;
+    position: absolute;
   }
 
 </style>
