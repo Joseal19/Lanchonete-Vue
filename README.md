@@ -1,4 +1,4 @@
-# Lanchonete
+# Big Burger
 
 ## Configuração do projeto
 ```
