@@ -54,12 +54,38 @@
         "tipo": "Tomate"
       },
       {
-        "id": 4,
+        "id": 5,
         "tipo": "Cebola roxa"
       },
       {
-        "id": 4,
+        "id": 6,
         "tipo": "Pepino"
+      }
+    ],
+    "molhos": [
+      {
+        "id": 1,
+        "tipo": "Cebola Agridoce"
+      },
+      {
+        "id": 2,
+        "tipo": "Chipotle"
+      },
+      {
+        "id": 3,
+        "tipo": "Barbecue"
+      },
+      {
+        "id": 4,
+        "tipo": "Parmesão"
+      },
+      {
+        "id": 5,
+        "tipo": "Maionese Temperada"
+      },
+      {
+        "id": 6,
+        "tipo": "Mostarda e Mel"
       }
     ]
   },
@@ -70,7 +96,7 @@
     },
     {
       "id": 2,
-      "tipo": "Em produção"
+      "tipo": "Produção"
     },
     {
       "id": 3,
@@ -79,27 +105,19 @@
   ],
   "burgers": [
     {
-      "nome": "José da Silva",
-      "carne": "Picanha",
-      "pao": "Italiano Branco",
+      "nome": "Teste",
+      "pao": "Integral",
+      "carne": "Alcatra",
       "opcionais": [
-        "Bacon",
         "Salame",
-        "Cebola roxa"
+        "Bacon"
       ],
-      "status": "Finalizado",
-      "id": 1
-    },
-    {
-      "nome": "João Pereira",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Salame",
-        "Cebola roxa"
+      "molhos": [
+        "Chipotle",
+        "Parmesão"
       ],
       "status": "Solicitado",
-      "id": 4
+      "id": 1
     }
   ]
 }
